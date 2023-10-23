@@ -1,2 +1,2 @@
-# shivaniGosh-
+# shivaniGosh
 My personal repository.
